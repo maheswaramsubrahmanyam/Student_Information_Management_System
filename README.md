@@ -24,7 +24,7 @@ This project is a Python-based Student Management System that allows users to pe
 3. Run the script using the command:
 
    ```bash
-   python Student_Information_Management_System.py
+   python student_info_management_sys.py
    ```
 
 4. Follow the menu options to perform desired operations.
