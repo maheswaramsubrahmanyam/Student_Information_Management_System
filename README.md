@@ -14,7 +14,9 @@ This project is a Python-based Student Management System that allows users to pe
 5. Update student details such as name, roll number, CGPA, or courses.
 
 ## Pip Install Sys command 
-- pip install sys
+
+```pip install sys ```
+
 ## Technologies Used
 
 - Python 3
